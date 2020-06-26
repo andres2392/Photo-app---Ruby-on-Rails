@@ -12,7 +12,7 @@ Rails.application.configure do
   config.action_mailer.delivery_method = :test
   config.action_mailer.default_url_options = { :host=> 'http://localhost:3000'}
 
-  # Show full error reports.
+   # Show full error reports.
   config.consider_all_requests_local = true
 
   # Enable/disable caching. By default caching is disabled.
